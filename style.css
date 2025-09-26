@@ -55,28 +55,3 @@ a:visit{
 .la > a{
     color:blue
 }
-@media (max-width: 600px) {
-    body {
-        background-size: cover;
-        background-position: center;
-    }
-
-    h1 {
-        font-size: 20px;
-        margin-top: 10px;
-    }
-
-    h2 {
-        font-size: 18px;
-    }
-
-    .bord {
-        width: 80%;
-        margin: 20px auto;
-        padding: 15px;
-    }
-
-    .we, .be, .sub {
-        width: 100%;
-    }
-}
