@@ -1,0 +1,56 @@
+body{
+    background-image: url(https://i.pinimg.com/1200x/b3/13/65/b313659949ee633e506926e1ec2e481e.jpg)
+}
+h1{
+    color:red;
+    
+    
+}
+
+.bord{
+    width: 500px;
+    height: 80vh;
+    background-color: black;
+    margin-left: 450px;
+    color:white;
+    padding:20px;
+    margin-bottom:40px;
+    
+}
+.we{
+    padding:10px;
+    width:400px;
+    background-color: rgb(54, 52, 52);
+}
+.be{
+     padding:10px;
+    width:400px;
+    background-color:  rgb(54, 52, 52);;
+}
+.sub {
+      padding:10px;
+      width:420px;
+    background-color: rgb(197, 12, 12);
+    color:white;
+    font-family:fantasy;
+   
+
+}
+.ri{
+    margin-top:-9px ;
+    text-align: right;
+}
+.ry{
+     text-align: right;
+      margin-top:-34px ;
+
+}
+a{
+    color:white;
+}
+a:visit{
+    color:yellow;
+}
+.la > a{
+    color:blue
+}
