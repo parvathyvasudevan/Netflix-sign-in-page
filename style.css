@@ -55,7 +55,7 @@ a:visit{
 .la > a{
     color:blue
 }
-@@media (max-width: 600px) {
+@media (max-width: 600px) {
     body {
         background-size: cover;
         background-position: center;
