@@ -1,5 +1,6 @@
 body{
     background-image: url(https://i.pinimg.com/1200x/b3/13/65/b313659949ee633e506926e1ec2e481e.jpg)
+    
 }
 h1{
     color:red;
@@ -54,22 +55,23 @@ a:visit{
 .la > a{
     color:blue
 }
-@media (max-width: 600px) {
+@@media (max-width: 600px) {
     .bord {
-        width: 40%;
+        width: 90%;
         margin: 20px auto;
         padding: 15px;
     }
 
     .we, .be, .sub {
-        width: 50%;
+        width: 100%;
     }
 
     h1 {
-        font-size: 14px;
+        font-size: 20px;
+        text-align: center;
     }
 
     h2 {
-        font-size: 14px;
+        font-size: 18px;
     }
 }
