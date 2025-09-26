@@ -56,6 +56,20 @@ a:visit{
     color:blue
 }
 @@media (max-width: 600px) {
+    body {
+        background-size: cover;
+        background-position: center;
+    }
+
+    h1 {
+        font-size: 20px;
+        margin-top: 10px;
+    }
+
+    h2 {
+        font-size: 18px;
+    }
+
     .bord {
         width: 90%;
         margin: 20px auto;
@@ -64,14 +78,5 @@ a:visit{
 
     .we, .be, .sub {
         width: 100%;
-    }
-
-    h1 {
-        font-size: 20px;
-        text-align: center;
-    }
-
-    h2 {
-        font-size: 18px;
     }
 }
